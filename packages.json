@@ -1,0 +1,26 @@
+[
+  {
+    "package": "depcheck",
+    "url": "https://github.com/ashbaldry/depcheck"
+  },
+  {
+    "package": "fomantic.plus",
+    "url": "https://github.com/ashbaldry/fomantic.plus"
+  },
+  {
+    "package": "shinytitle",
+    "url": "https://github.com/ashbaldry/shinytitle"
+  },
+  {
+    "package": "minifier",
+    "url": "https://github.com/ashbaldry/minifier"
+  },
+  {
+    "package": "appler",
+    "url": "https://github.com/ashbaldry/appler"
+  },
+  {
+    "package": "vstsr",
+    "url": "https://github.com/ashbaldry/vstsr"
+  }
+]

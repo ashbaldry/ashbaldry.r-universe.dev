@@ -12,6 +12,10 @@
     "url": "https://github.com/ashbaldry/shinytitle"
   },
   {
+    "package": "howler",
+    "url": "https://github.com/ashbaldry/howler"
+  },
+  {
     "package": "minifier",
     "url": "https://github.com/ashbaldry/minifier"
   },

@@ -1,5 +1,9 @@
 [
   {
+    "package": "designer",
+    "url": "https://github.com/ashbaldry/designer"
+  },
+  {
     "package": "depcheck",
     "url": "https://github.com/ashbaldry/depcheck"
   },

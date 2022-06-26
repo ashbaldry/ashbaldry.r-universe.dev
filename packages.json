@@ -20,6 +20,10 @@
     "url": "https://github.com/ashbaldry/howler"
   },
   {
+    "package": "video",
+    "url": "https://github.com/ashbaldry/video"
+  },  
+  {
     "package": "minifier",
     "url": "https://github.com/ashbaldry/minifier"
   },

@@ -12,6 +12,10 @@
     "url": "https://github.com/ashbaldry/fomantic.plus"
   },
   {
+    "package": "shiny.destroy",
+    "url": "https://github.com/ashbaldry/shiny.destroy"
+  },  
+  {
     "package": "shinytitle",
     "url": "https://github.com/ashbaldry/shinytitle"
   },

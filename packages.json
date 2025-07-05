@@ -14,7 +14,11 @@
   {
     "package": "shiny.destroy",
     "url": "https://github.com/ashbaldry/shiny.destroy"
-  },  
+  }, 
+  {
+    "package": "shinytesters",
+    "url": "https://github.com/ashbaldry/shinytesters"
+  }, 
   {
     "package": "shinytitle",
     "url": "https://github.com/ashbaldry/shinytitle"
